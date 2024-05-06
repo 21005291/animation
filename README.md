@@ -321,8 +321,12 @@ ZOOM.XML
 
 
 ## OUTPUT
-
-
-
+![Screenshot 2024-05-06 084949](https://github.com/21005291/animation/assets/112933167/e051acad-dded-4cb7-a1e4-244a641fd4ad)
+![Screenshot 2024-05-06 084957](https://github.com/21005291/animation/assets/112933167/9bc799ef-b872-46e4-9531-0a598396d31f)
+![Screenshot 2024-05-06 085005](https://github.com/21005291/animation/assets/112933167/b409b49b-e9a5-488d-ab2e-d84fb5997bf1)
+![Screenshot 2024-05-06 085028](https://github.com/21005291/animation/assets/112933167/e16bbb99-64a3-475a-bc73-ef1437c851e5)
+![Screenshot 2024-05-06 085038](https://github.com/21005291/animation/assets/112933167/c84bce04-96e0-4256-add9-17be6d07f8a9)
+![Screenshot 2024-05-06 085050](https://github.com/21005291/animation/assets/112933167/c2c8094e-6042-4b30-ba50-db82940605f9)
+![Screenshot 2024-05-06 085100](https://github.com/21005291/animation/assets/112933167/ae8f435e-1bb2-4ec4-8b5d-2a7dc6ae1c0e)
 
 ## RESULT
