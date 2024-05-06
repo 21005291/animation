@@ -330,3 +330,4 @@ ZOOM.XML
 ![Screenshot 2024-05-06 085100](https://github.com/21005291/animation/assets/112933167/ae8f435e-1bb2-4ec4-8b5d-2a7dc6ae1c0e)
 
 ## RESULT
+Thus a Simple Android Application to add animations: Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and executed successfully.
